@@ -1,3 +1,3 @@
 # JavaScript-Films-Project
-<hr>
-![App] (proje.gif)
+<hr></hr>
+![App](proje.gif)
